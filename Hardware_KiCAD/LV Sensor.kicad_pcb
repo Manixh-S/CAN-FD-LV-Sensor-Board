@@ -6023,13 +6023,13 @@
 		(descr "SOT, 3 Pin (JEDEC MO-178 inferred 3-pin variant https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D3"
-			(at 0 2.3625 90)
+			(at 1.85 2.0625 0)
 			(layer "F.SilkS")
 			(uuid "538ed0f3-7148-43db-bcc6-fa6e0673962e")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.75 0.75)
+					(thickness 0.09375)
 				)
 			)
 		)
@@ -6359,13 +6359,13 @@
 		(descr "SOT, 3 Pin (JEDEC MO-178 inferred 3-pin variant https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D2"
-			(at 0 2.6125 90)
+			(at 1.8 2.0625 180)
 			(layer "F.SilkS")
 			(uuid "749cdd9b-843f-4b8b-a84b-e1ad653f37c8")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.75 0.75)
+					(thickness 0.09375)
 				)
 			)
 		)
@@ -6695,8 +6695,9 @@
 		(descr "terminal block Metz Connect Type059_RT06302HBWC, 2 pins, pitch 3.5mm, size 7x6.5mm, drill diameter 1.2mm, pad diameter 2.3mm, https://www.metz-connect.com/externalfiles/310591/863246.PDF, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MetzConnect")
 		(tags "THT terminal block Metz Connect Type059_RT06302HBWC pitch 3.5mm size 7x6.5mm drill 1.2mm pad 2.3mm")
 		(property "Reference" "J5"
-			(at -2.5 -0.9175 180)
+			(at 6.25 -1.9175 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "acc49be2-fdf4-4ef8-8408-a6cbbaf466e5")
 			(effects
 				(font
@@ -8348,7 +8349,7 @@
 		(at 170 66 180)
 		(tags "ATA6561-GAQW-N ")
 		(property "Reference" "U9"
-			(at 0 0 180)
+			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "52694bf3-58b1-4c24-b0be-e8cff8ec4dd4")
@@ -9247,13 +9248,13 @@
 		(descr "SOT, 3 Pin (JEDEC MO-178 inferred 3-pin variant https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D4"
-			(at 0 2.5 90)
+			(at 2 2.0625 0)
 			(layer "F.SilkS")
 			(uuid "24eafb0d-e1b0-4920-bc4d-afb355dcc654")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.75 0.75)
+					(thickness 0.09375)
 				)
 			)
 		)
@@ -14127,6 +14128,7 @@
 		(property "Reference" "J16"
 			(at 0 -3.5 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ae44c996-c6f8-4393-961e-0ffc1fe2bf8b")
 			(effects
 				(font
@@ -15354,14 +15356,15 @@
 		(at 195 96)
 		(descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 1.00mm single row")
-		(property "Reference" "TP4"
+		(property "Reference" "ADC GPIO"
 			(at -1 -1.5 0)
 			(layer "F.SilkS")
 			(uuid "825f7573-2b4c-47d3-99a5-3c100c18f510")
 			(effects
 				(font
-					(size 1 1)
+					(size 0.75 0.75)
 					(thickness 0.15)
+					(bold yes)
 				)
 			)
 		)
@@ -15610,7 +15613,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R24"
-			(at 0 -1.83 0)
+			(at -3.6 0 90)
 			(layer "F.SilkS")
 			(uuid "79330f00-0793-4d66-8a25-23b9380342a1")
 			(effects
@@ -16226,7 +16229,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C12"
-			(at 0 1.5 90)
+			(at 0 1.75 90)
 			(layer "F.SilkS")
 			(uuid "3dc24d22-0df0-429f-9d0b-94fae48faf82")
 			(effects
@@ -16665,7 +16668,7 @@
 		(uuid "83999692-4529-4daa-8692-ab00a3bd1ef1")
 		(at 166 75 -90)
 		(property "Reference" "C31"
-			(at -1.04 -1.48 90)
+			(at -2.75 -0.25 180)
 			(layer "F.SilkS")
 			(uuid "23dce6ce-d09c-4dbd-999b-f185a4edb261")
 			(effects
@@ -23741,8 +23744,8 @@
 			(uuid "5367c9f3-def5-4fc2-9245-321abbd21997")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.75 0.75)
+					(thickness 0.09375)
 				)
 			)
 		)
@@ -24068,7 +24071,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C35"
-			(at -2.25 -2 90)
+			(at -3.5 -0.25 180)
 			(layer "F.SilkS")
 			(uuid "31e318e6-cfec-4bd1-b489-a69b88c889b2")
 			(effects
@@ -24630,13 +24633,13 @@
 		(descr "5-pin SOT23 package")
 		(tags "SOT-23-5 hand-soldering")
 		(property "Reference" "IC3"
-			(at 0 -2.9 90)
+			(at 0 -2.5 90)
 			(layer "F.SilkS")
 			(uuid "5e2301e0-955c-4aaf-a336-de94f035b130")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.75 0.75)
+					(thickness 0.09375)
 				)
 			)
 		)
@@ -25826,13 +25829,13 @@
 		(descr "SOT, 3 Pin (JEDEC MO-178 inferred 3-pin variant https://www.jedec.org/document_search?search_api_views_fulltext=MO-178), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "D1"
-			(at 0 2.5625 90)
+			(at 1.7 2.15 0)
 			(layer "F.SilkS")
 			(uuid "eb621720-4ed7-4329-bbc5-5346052277d8")
 			(effects
 				(font
-					(size 1 1)
-					(thickness 0.15)
+					(size 0.75 0.75)
+					(thickness 0.09375)
 				)
 			)
 		)
@@ -26534,7 +26537,7 @@
 		(at 204 54.25)
 		(descr "Through hole straight pin header, 1x01, 1.00mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 1.00mm single row")
-		(property "Reference" "TP8"
+		(property "Reference" "SDO"
 			(at 0 -1.75 0)
 			(layer "F.SilkS")
 			(uuid "a86ca4cd-c193-4583-8694-2b56eeca2bb4")
@@ -30767,7 +30770,7 @@
 		(at 200.56 73.12 180)
 		(tags "MCP3204-CI/P ")
 		(property "Reference" "U10"
-			(at 3.81 7.62 180)
+			(at 3.81 7.62 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "61a98e4b-715f-47e7-90b5-a3b4b11e226b")
@@ -32161,7 +32164,7 @@
 		(descr "43650-04(00,01,02)")
 		(tags "Connector")
 		(property "Reference" "J6"
-			(at 4.65 7.1004 0)
+			(at -4.35 6.3504 0)
 			(layer "F.SilkS")
 			(uuid "f80f3140-32b0-43a5-afcf-6502bc052414")
 			(effects
@@ -32554,6 +32557,57 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "[0,5V]"
+		(at 216.5 64.75 0)
+		(layer "F.SilkS")
+		(uuid "1242e7b6-bd35-48d2-a541-c071dc5459d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "[-18,18V]"
+		(at 215 76.75 0)
+		(layer "F.SilkS")
+		(uuid "1a72f8d7-7d5e-4ee6-9197-4691ccb81d6d")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5V Out"
+		(at 133.25 86.5 270)
+		(layer "F.SilkS")
+		(uuid "1cc32555-a59c-4c8f-8761-9eb07bd4cd24")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.09375)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "[-18,18V]"
+		(at 215.5 87.5 0)
+		(layer "F.SilkS")
+		(uuid "6cb49c40-5880-4c98-a663-c7d0c0f1171b")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "NRST"
 		(at 219.75 52.5 0)
 		(layer "F.SilkS")
@@ -32563,6 +32617,19 @@
 				(size 0.8 0.8)
 				(thickness 0.15)
 			)
+		)
+	)
+	(gr_text "[0,5V]"
+		(at 216.5 74.75 0)
+		(layer "F.SilkS")
+		(uuid "6efdf614-e4ab-4c45-8db8-2597392725cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "SWDIO"
@@ -32587,6 +32654,19 @@
 			)
 		)
 	)
+	(gr_text "1"
+		(at 194.5 98 0)
+		(layer "F.SilkS")
+		(uuid "c809d77c-6087-43ef-913f-5875ce4a3d68")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "SWCLK"
 		(at 201.25 52.5 0)
 		(layer "F.SilkS")
@@ -32596,6 +32676,19 @@
 				(size 0.5 0.5)
 				(thickness 0.125)
 			)
+		)
+	)
+	(gr_text "0"
+		(at 192 98 0)
+		(layer "F.SilkS")
+		(uuid "cc5fa04e-cee0-461b-979d-2f3ddaaac640")
+		(effects
+			(font
+				(size 0.75 0.75)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "SCK"
@@ -32629,6 +32722,18 @@
 				(size 0.8 0.8)
 				(thickness 0.15)
 			)
+		)
+	)
+	(gr_text "-"
+		(at 134.1175 78.63 90)
+		(layer "F.SilkS")
+		(uuid "f421c91f-2944-4dc3-b03d-7e153b7d9509")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
 		)
 	)
 	(segment
