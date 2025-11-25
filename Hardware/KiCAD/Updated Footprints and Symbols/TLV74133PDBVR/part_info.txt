@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TLV74133PDBVR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2020-09-12 02:45:46
+Downloaded=2025-11-18 21:30:53
+3D=Y

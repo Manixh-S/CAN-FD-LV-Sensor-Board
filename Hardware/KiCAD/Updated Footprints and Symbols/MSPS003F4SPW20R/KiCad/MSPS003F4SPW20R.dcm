@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MSPS003F4SPW20R
+D Core  Arm 32-bit Cortex-M0+ CPU, frequency up to 24MHz  Operating characteristics  Extended temperature: 40C to 125C  Wide supply voltage range: 1.62V to 3.6V  Memories  Up to 16KB of flash  1KB of SRAM  High-performance analog peripherals  One analog-to-digital converter (ADC) with up to 10 total external channels, 1.7Msps at 10 bit or 1.5Msps at 12 bit with VDD as the voltage reference  Configurable 1.4V or 2.5V internal ADC voltage reference (VREF)  Integrated temperature 
+K
+F https://www.ti.com/lit/gpn/mspm0c1104
+$ENDCMP
+#
+#End Doc Library

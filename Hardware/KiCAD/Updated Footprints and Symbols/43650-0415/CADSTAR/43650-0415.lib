@@ -1,0 +1,16 @@
+.43650-0415 :1 ;Micro-Fit 3.0 Vertical Header, 3.00mm Pitch, Single Row, 4 Circuits, with PCB Polarizing Peg, Glow-Wire Capable, Black
+"43650-04YY_151617"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4"
+*MXP 6
+*DFN 43650-0415
+~!Mouser Part Number (538-43650-0415)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Molex/43650-0415?qs=GEJyObWCoZgrB2DNhHHwDQ%3D%3D)
+~!Manufacturer_Name (Molex)
+~!Manufacturer_Part_Number (43650-0415)
+~!Link Datasheet (https://www.molex.com/pdm_docs/sd/436500215_sd.pdf)
+~!Height (9.9mm)
+~!3D_Model (43650-0415)
+"43650-0415"
+1.1!U 2.1!U 3.1!U 4.1!U 

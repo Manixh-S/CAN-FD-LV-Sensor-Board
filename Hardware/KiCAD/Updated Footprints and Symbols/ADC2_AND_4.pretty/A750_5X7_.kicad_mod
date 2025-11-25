@@ -1,0 +1,117 @@
+(footprint "A750_5X7_"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "A750(5x7)")
+	(tags "Capacitor")
+	(property "Reference" "C**"
+		(at -0.358 -0.023 0)
+		(layer "F.SilkS")
+		(uuid "8baaac32-c1f3-4eaa-9d8a-421f3061e8bc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "A750(5X7)"
+		(at -0.358 -0.023 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "eef55435-2e8e-438a-a62d-15858c933e40")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1eed0b56-232b-441f-899f-d68ad0ebfb07")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4bf360c6-94be-4374-81f2-c91a9c25497c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 0 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "cfc4d1f9-0c11-4f8d-99bf-9830374a3426")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "a19b953c-bdc4-48c4-b7fc-ead9a661d1f9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.358 -0.023 0)
+		(layer "F.Fab")
+		(uuid "e7b0e5a4-7799-4ca4-9dc8-a083e4cdf352")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 1)
+		(size 1.25 1.25)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "45233ca9-3e9f-4ef7-a69d-f31f6bfd372b")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -1)
+		(size 1.25 1.25)
+		(drill 0.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "89ff9d81-8178-4793-ab54-2ead33dbfdd3")
+	)
+	(embedded_fonts no)
+	(model "A750BG227M0JAAE020.stp"
+		(offset
+			(xyz 0 0 7.919999957)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -90 90)
+		)
+	)
+)

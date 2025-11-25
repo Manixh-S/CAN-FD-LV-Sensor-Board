@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MC7805CD2TR4G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "MC7805CD2TR4G" (!) = "", "MC7805CD2TR4G", "Other", "863-MC7805CD2TR4G", "https://www.mouser.co.uk/ProductDetail/onsemi/MC7805CD2TR4G?qs=%252B9%2Fcbd0IE0TA2t8QN7DaSw%3D%3D", "Linear Voltage Regulator IC Positive Fixed 1 Output 1A D2PAK-3", "https://www.onsemi.com/pdf/datasheet/mc7800-d.pdf", "4.826 mm"
+END_PART
+
+END.

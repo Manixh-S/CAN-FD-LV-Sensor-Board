@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=MSPS003F4SPW20R
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=20
+Version=1.1
+Released=2024-12-20 09:47:16
+Downloaded=2025-11-20 18:07:53
+3D=Y

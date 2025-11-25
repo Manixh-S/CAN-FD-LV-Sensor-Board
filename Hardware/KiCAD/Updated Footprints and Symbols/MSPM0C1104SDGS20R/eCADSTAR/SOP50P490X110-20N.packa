@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MSPM0C1104SDGS20R"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-12-20-09:47:09)
+    (mountForm default
+        (footprintRef "SOP50P490X110-20N")
+        (spec "System")
+    )
+)

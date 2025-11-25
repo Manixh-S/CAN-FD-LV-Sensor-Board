@@ -1,0 +1,73 @@
+(Japanese_coding: sjis)
+(function "ECS_179460"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-05-04-10:12:28)
+    (utime 2024-02-28-11:14:22)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+        (port "4" (symbPinId 4) (portType INOUT))
+    )
+    (property "symbolName" "L78L05ABUTR")
+)
+
+
+(pinAssign "ECS_179460"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-05-04-10:12:28)
+    (utime 2024-02-28-11:14:22)
+    (interface
+        (port "1" (symbPinId 1) (portName "VOUT") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "GND_1") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "VIN") (portType INOUT))
+        (port "4" (symbPinId 4) (portName "GND_2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_179460")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+                (port "4" (match "4"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "L78L05ABUTR")
+)
+
+
+(part "L78L05ABUTR"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-05-04-10:12:28)
+    (utime 2024-02-28-11:14:22)
+    (packageRef "L78L05ABUTR")
+    (pinAssignRef "ECS_179460")
+    (interface
+        (port "1" (symbPinId 1) (portName "VOUT") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "GND_1") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "VIN") (portType INOUT))
+        (port "4" (symbPinId 4) (portName "GND_2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "IC")
+    (property "description" "Standard Regulator 5V 0.1A L78L05ABUTR, Voltage Regulator, 0.1A 5 V, 4-Pin SOT-89")
+    (property "Mouser_Part_Number" "511-L78L05ABU")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/L78L05ABUTR?qs=1feNxqzJ94QQZYRl%252B78DYA%3D%3D")
+    (property "Manufacturer_Name" "STMicroelectronics")
+    (property "Manufacturer_Part_Number" "L78L05ABUTR")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/2/L78L05ABUTR.pdf")
+)
+
+

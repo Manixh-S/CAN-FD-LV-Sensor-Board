@@ -1,0 +1,16 @@
+.830017146 :1 ;WE-XTAL Quartz Crystal HC49/4HSMX; 12.4 x 4.7mm; 20.0 MHz; Tol = +/-30 ppm; Stab = +/-50 ppm Temp Range: -10 to 60 C; Load Cap = 30 pF;
+"830017146"
+*STM Y
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 830017146
+~!Mouser Part Number (710-830017146)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830017146?qs=2WXlatMagcH5cMIrI1393w%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (830017146)
+~!Link Datasheet (https://www.we-online.com/catalog/datasheet/830017146.pdf)
+~!Height (4.5mm)
+~!3D_Model (830017146)
+"830017146"
+1.1!U 2.1!U 

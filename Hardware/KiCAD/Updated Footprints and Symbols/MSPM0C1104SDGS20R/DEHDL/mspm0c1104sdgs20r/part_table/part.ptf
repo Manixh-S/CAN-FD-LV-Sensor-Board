@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MSPM0C1104SDGS20R'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "MSPM0C1104SDGS20R" (!) = "", "SOP50P490X110-20N", "Small Outline Packages", "595-MSPM0C1104SDG20R", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/MSPM0C1104SDGS20R?qs=IKkN%2F947nfCiNls5oQjkDA%3D%3D", "ARM Microcontrollers - MCU 24MHz Arm Cortex-M0+ MCU with 16KB flash, 1KB SRAM, 12-bit ADC", "https://www.ti.com/lit/gpn/mspm0c1104", "1.1 mm"
+END_PART
+
+END.

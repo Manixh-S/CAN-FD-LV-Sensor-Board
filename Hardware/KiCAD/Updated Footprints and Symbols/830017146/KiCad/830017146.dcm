@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 830017146
+D WE-XTAL Quartz Crystal HC49/4HSMX; 12.4 x 4.7mm; 20.0 MHz; Tol = +/-30 ppm; Stab = +/-50 ppm Temp Range: -10 to 60 C; Load Cap = 30 pF;
+K
+F https://www.we-online.com/catalog/datasheet/830017146.pdf
+$ENDCMP
+#
+#End Doc Library

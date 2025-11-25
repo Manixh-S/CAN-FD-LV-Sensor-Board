@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'A750BG227M0JAAE020'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "KEMET", "A750BG227M0JAAE020" (!) = "", "A750(5X7)", "Other", "80-A750BG227M0JAAE20", "https://www.mouser.co.uk/ProductDetail/KEMET/A750BG227M0JAAE020?qs=M6jHmRuQorXQQ1qHliZFYg%3D%3D", "A750, Aluminum, Polymer Aluminum, 220 uF, 20%, 6.3 VDC, -55/+105C, 105C, -55C, 105C, 2,000 Hrs, 12 % , 20 mOhms, 280 uA, 5mm, 7mm, Lead Spacing = 2mm, 19mm, 1000", "https://content.kemet.com/datasheets/KEM_A4067_A750.pdf"
+END_PART
+
+END.

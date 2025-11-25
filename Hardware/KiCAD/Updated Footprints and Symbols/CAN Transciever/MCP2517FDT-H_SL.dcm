@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP2517FDT-H_SL
+D MICROCHIP - MCP2517FDT-H/SL - CAN CONTROLLER, 2MBPS, -40 TO 150DEG C
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en600327
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=onsemi
+PartNumber=MC7805CD2TR4G
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=3.1
+Released=2020-10-22 19:19:43
+Downloaded=2025-11-21 19:01:25
+3D=Y

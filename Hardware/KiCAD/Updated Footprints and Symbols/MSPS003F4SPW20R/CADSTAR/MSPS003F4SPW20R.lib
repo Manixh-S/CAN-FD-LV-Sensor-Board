@@ -1,0 +1,16 @@
+.MSPS003F4SPW20R :1 ;Core  Arm 32-bit Cortex-M0+ CPU, frequency up to 24MHz  Operating characteristics  Extended temperature: 40C to 125C  Wide supply voltage range: 1.62V to 3.6V  Memories  Up to 16KB of flash  1KB of SRAM  High-performance analog peripherals  One analog-to-digital converter (ADC) with up to 10 total external channels, 1.7Msps at 10 bit or 1.5Msps at 12 bit with VDD as the voltage reference  Configurable 1.4V or 2.5V internal ADC voltage reference (VREF)  Integrated temperature 
+SOP65P640X120-20N
+*STM IC
+*NGS
+*PLB 1="PA26 / A1" 2="PA27 / A0" 3="PA28 / A5" 4="NRST" 5="PA4" 6="PA11" 7="VSS" 8="PA2" 9="VDD" 10="PA6" 11="PA0" 12="PA1" 13="PA17/A9" 14="PA18/A7" 15="PA19 / SWDIO" 16="PA20 / A6 / SWCLK" 17="PA22 / A4" 18="PA23" 19="PA24 / A3" 20="PA25 / A2"
+*MXP 20
+*DFN MSPS003F4SPW20R
+~!Mouser Part Number (595-MSPS003F4SPW20R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/MSPS003F4SPW20R?qs=IKkN%2F947nfB2%252B17BcsFJOQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (MSPS003F4SPW20R)
+~!Link Datasheet (https://www.ti.com/lit/gpn/mspm0c1104)
+~!Height (1.2mm)
+~!3D_Model (MSPS003F4SPW20R)
+MSPS003F4SPW20R
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 

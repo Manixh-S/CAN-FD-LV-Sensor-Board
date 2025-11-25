@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MCP2517FDT-H/SL
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=14
+Version=1.1
+Released=2019-05-24 03:57:09
+Downloaded=2025-11-15 19:51:54
+3D=Y

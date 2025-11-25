@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=MSPM0C1104SDGS20R
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=20
+Version=1.1
+Released=2024-12-20 09:47:09
+Downloaded=2025-11-20 19:03:02
+3D=Y

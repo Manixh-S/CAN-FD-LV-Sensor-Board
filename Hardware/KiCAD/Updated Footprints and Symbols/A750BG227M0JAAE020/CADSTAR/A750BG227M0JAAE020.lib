@@ -1,0 +1,16 @@
+.A750BG227M0JAAE020 :1 ;A750, Aluminum, Polymer Aluminum, 220 uF, 20%, 6.3 VDC, -55/+105C, 105C, -55C, 105C, 2,000 Hrs, 12 % , 20 mOhms, 280 uA, 5mm, 7mm, Lead Spacing = 2mm, 19mm, 1000
+A750_5X7_
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN A750BG227M0JAAE020
+~!Mouser Part Number (80-A750BG227M0JAAE20)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KEMET/A750BG227M0JAAE020?qs=M6jHmRuQorXQQ1qHliZFYg%3D%3D)
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (A750BG227M0JAAE020)
+~!Link Datasheet (https://content.kemet.com/datasheets/KEM_A4067_A750.pdf)
+~!Height (-)
+~!3D_Model (A750BG227M0JAAE020)
+A750BG227M0JAAE020
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L78L05ABUTR
+D Standard Regulator 5V 0.1A L78L05ABUTR, Voltage Regulator, 0.1A 5 V, 4-Pin SOT-89
+K
+F https://componentsearchengine.com/Datasheets/2/L78L05ABUTR.pdf
+$ENDCMP
+#
+#End Doc Library

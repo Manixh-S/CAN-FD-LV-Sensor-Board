@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "L78L05ABUTR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-02-28-11:14:22)
+    (mountForm default
+        (footprintRef "L78L05ABUTR")
+        (spec "System")
+    )
+)

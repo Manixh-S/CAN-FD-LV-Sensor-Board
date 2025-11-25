@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "A750_5X7_"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "A750_5X7_")
+        (spec "default")
+    )
+)

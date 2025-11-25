@@ -1,0 +1,113 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "MC7805CD2TR4G"
+   (description "Linear Voltage Regulator IC Positive Fixed 1 Output 1A D2PAK-3")
+   (family "ANA")
+   (package "MC7805CD2TR4G")
+   (attribute "Datasheet Link" "https://www.onsemi.com/pdf/datasheet/mc7800-d.pdf")
+   (attribute "Geometry.Height" "4.826mm")
+   (attribute "Mouser Part Number" "863-MC7805CD2TR4G")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/MC7805CD2TR4G?qs=%252B9%2Fcbd0IE0TA2t8QN7DaSw%3D%3D")
+   (attribute "Manufacturer_Name" "onsemi")
+   (attribute "Manufacturer_Part_Number" "MC7805CD2TR4G")
+   (gate
+    (symbol "MC7805CD2TR4G")
+    (pin "INPUT" 1 PS)
+    (pin "GROUND" 2 PS)
+    (pin "OUTPUT" 3 PS)
+   )
+  )
+  (symbol "MC7805CD2TR4G"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "MC7805CD2TR4G"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.01 6.059)
+      (pt 5.01 6.059)
+      (pt 5.01 -3.135)
+      (pt -5.01 -3.135)
+      (pt -5.01 6.059))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.245 9.344)
+      (pt 6.245 9.344)
+      (pt 6.245 -8.811)
+      (pt -6.245 -8.811)
+      (pt -6.245 9.344))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -5 -0.4)
+      (pt -5.01 -3.135)
+      (pt 5 -3.135)
+      (pt 5 -0.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.54 -8.3)
+      (arc (pt -2.540 -8.300) (pt -2.590 -8.300) (pt -2.490 -8.200) (start 180.0) (sweep -90.0))
+      (pt -2.54 -8.2)
+      (arc (pt -2.540 -8.200) (pt -2.590 -8.300) (pt -2.490 -8.200) (start 180.0) (sweep 90.0))
+      (pt -2.54 -8.3))))
+   (leg 1 (pt -2.540 -6.059) (padstack 0))
+   (leg 2 (pt 0.000 4.154) (padstack 2))
+   (leg 3 (pt 2.540 -6.059) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.016 3.504 0 0 90.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 8.380 10.490 0 0 0.000))
+   )
+   (model "MC7805CD2TR4G.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

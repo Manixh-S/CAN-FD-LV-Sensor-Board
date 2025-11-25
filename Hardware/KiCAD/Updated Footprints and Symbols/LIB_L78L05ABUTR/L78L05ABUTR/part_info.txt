@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=L78L05ABUTR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=4
+Version=3.4
+Released=2022-05-04 10:12:28
+Downloaded=2025-11-18 20:17:57
+3D=Y

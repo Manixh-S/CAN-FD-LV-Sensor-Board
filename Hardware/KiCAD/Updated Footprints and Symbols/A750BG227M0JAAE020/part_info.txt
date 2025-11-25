@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=A750BG227M0JAAE020
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=4.1
+Released=2017-01-10 13:24:24
+Downloaded=2025-11-18 02:40:57
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MSPM0C1104SDGS20R
+D ARM Microcontrollers - MCU 24MHz Arm Cortex-M0+ MCU with 16KB flash, 1KB SRAM, 12-bit ADC
+K
+F https://www.ti.com/lit/gpn/mspm0c1104
+$ENDCMP
+#
+#End Doc Library

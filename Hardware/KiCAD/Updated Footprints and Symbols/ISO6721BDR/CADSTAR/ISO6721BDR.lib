@@ -1,0 +1,16 @@
+.ISO6721BDR :1 ;ISO672x General Purpose Dual Channel Digital Isolators with Robust EMC
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="VCC1" 2="OUTA" 3="INB" 4="GND1" 5="GND2" 6="OUTB" 7="INA" 8="VCC2"
+*MXP 8
+*DFN ISO6721BDR
+~!Mouser Part Number (595-ISO6721BDR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ISO6721BDR?qs=eP2BKZSCXI7%2FRQwMzsUPCg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (ISO6721BDR)
+~!Link Datasheet (https://www.arrow.com/en/products/iso6721bdr/texas-instruments)
+~!Height (1.75mm)
+~!3D_Model (ISO6721BDR)
+ISO6721BDR
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

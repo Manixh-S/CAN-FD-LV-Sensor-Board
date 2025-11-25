@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_12900558"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-10-22-19:19:43)
+    (utime 2025-07-16-05:51:58)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "MC7805CD2TR4G")
+)
+
+
+(pinAssign "ECS_12900558"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-10-22-19:19:43)
+    (utime 2025-07-16-05:51:58)
+    (interface
+        (port "1" (symbPinId 1) (portName "INPUT") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "GROUND") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "OUTPUT") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_12900558")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "MC7805CD2TR4G")
+)
+
+
+(part "MC7805CD2TR4G"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-10-22-19:19:43)
+    (utime 2025-07-16-05:51:58)
+    (packageRef "MC7805CD2TR4G")
+    (pinAssignRef "ECS_12900558")
+    (interface
+        (port "1" (symbPinId 1) (portName "INPUT") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "GROUND") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "OUTPUT") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "IC")
+    (property "description" "Linear Voltage Regulator IC Positive Fixed 1 Output 1A D2PAK-3")
+    (property "Mouser_Part_Number" "863-MC7805CD2TR4G")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/MC7805CD2TR4G?qs=%252B9%2Fcbd0IE0TA2t8QN7DaSw%3D%3D")
+    (property "Manufacturer_Name" "onsemi")
+    (property "Manufacturer_Part_Number" "MC7805CD2TR4G")
+    (property "Datasheet_Link" "https://www.onsemi.com/pdf/datasheet/mc7800-d.pdf")
+    (property "compAreaTopHeight" 4.826)
+)
+
+

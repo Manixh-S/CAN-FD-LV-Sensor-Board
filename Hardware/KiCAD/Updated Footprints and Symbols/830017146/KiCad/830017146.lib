@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 830017146
+#/20462879/1822976/2.50/2/2/Crystal or Oscillator
+DEF 830017146 Y 0 30 Y Y 1 F N
+F0 "Y" 350 250 50 H V L CNN
+F1 "830017146" 350 150 50 H V L CNN
+F2 "830017146" 350 50 50 H I L CNN
+F3 "https://www.we-online.com/catalog/datasheet/830017146.pdf" 350 -50 50 H I L CNN
+F4 "WE-XTAL Quartz Crystal HC49/4HSMX; 12.4 x 4.7mm; 20.0 MHz; Tol = +/-30 ppm; Stab = +/-50 ppm Temp Range: -10 to 60 C; Load Cap = 30 pF;" 350 -150 50 H I L CNN "Description"
+F5 "4.5" 350 -250 50 H I L CNN "Height"
+F6 "710-830017146" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830017146?qs=2WXlatMagcH5cMIrI1393w%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "Wurth Elektronik" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "830017146" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 400 0 100 L 50 50 0 0 P
+P 2 0 1 6 120 100 120 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 5 0 1 6 160 140 160 -140 240 -140 240 140 160 140 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 120 0 100 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

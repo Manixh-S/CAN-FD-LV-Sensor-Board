@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ISO6721BDR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "ISO6721BDR" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "595-ISO6721BDR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ISO6721BDR?qs=eP2BKZSCXI7%2FRQwMzsUPCg%3D%3D", "ISO672x General Purpose Dual Channel Digital Isolators with Robust EMC", "https://www.arrow.com/en/products/iso6721bdr/texas-instruments", "1.75 mm"
+END_PART
+
+END.

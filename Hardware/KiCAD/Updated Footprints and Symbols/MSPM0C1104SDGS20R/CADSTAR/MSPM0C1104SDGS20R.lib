@@ -1,0 +1,16 @@
+.MSPM0C1104SDGS20R :1 ;ARM Microcontrollers - MCU 24MHz Arm Cortex-M0+ MCU with 16KB flash, 1KB SRAM, 12-bit ADC
+SOP50P490X110-20N
+*STM IC
+*NGS
+*PLB 1="PA26 / A1" 2="PA27 / A0" 3="PA28 / A5" 4="PA0" 5="PA1 / NRST" 6="VDD" 7="VSS" 8="PA2" 9="PA4" 10="PA6" 11="PA11" 12="PA16 / A8" 13="PA17" 14="PA18 / A7" 15="PA19 / SWDIO" 16="PA20 / A6 / SWCLK" 17="PA22 / A4" 18="PA23" 19="PA24 / A3" 20="PA25 / A2"
+*MXP 20
+*DFN MSPM0C1104SDGS20R
+~!Mouser Part Number (595-MSPM0C1104SDG20R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/MSPM0C1104SDGS20R?qs=IKkN%2F947nfCiNls5oQjkDA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (MSPM0C1104SDGS20R)
+~!Link Datasheet (https://www.ti.com/lit/gpn/mspm0c1104)
+~!Height (1.1mm)
+~!3D_Model (MSPM0C1104SDGS20R)
+MSPM0C1104SDGS20R
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 
